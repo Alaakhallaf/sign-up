@@ -1,0 +1,163 @@
+.logo img {
+    margin: 0%;
+    width: 80px;
+    height: 90px;
+    top: 0%;
+
+}
+
+.navbar {
+
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.navbar a {
+    padding: 15px 20px;
+    color: #fff;
+    font-weight: 1000;
+    text-decoration: none;
+
+}
+
+div ul {
+    display: flex;
+    margin-right: 100%;
+}
+
+ul li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+    list-style: none;
+}
+
+body {
+
+    background-image: url(vintage-old-rustic-cutlery-dark_1220-4886.avif);
+    background-size: cover;
+
+
+}
+
+.container {
+    width: 50%;
+   /* height: 50%;*/
+    position: relative;
+    top: 100px;
+    left: 22%;
+    background-color: #0c010183;
+    justify-content: center;
+    align-items: center;
+    padding: 25px 30px;
+    border: radius 0;
+    ;
+
+
+}
+
+.container .title {
+    text-align: center;
+    color: #fff;
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 600;
+
+
+
+}
+
+.container form .user-details {
+
+    display: flex;
+    flex-wrap: wrap-reverse;
+    justify-content: space-between;
+
+
+}
+
+
+
+form .user-details .input-box {
+
+    margin: 20px 0 12px 0;
+    width: calc(100% / 2 - 20px);
+
+
+}
+
+.user-details .input-box .details {
+
+    display: block;
+    font-size: larger;
+    font-weight: 500;
+    margin-bottom: 5px;
+    color: #fff;
+
+
+
+
+}
+
+
+.user-details .input-box input {
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0);
+    border-top: #fff;
+    border-left: #fff;
+    border-right: #fff;
+    height: 45px;
+    width: 100%;
+    border-radius: 0%;
+    font-size: 16px;
+
+
+
+}
+
+form #remember {
+   
+    color: #fff;
+    display: inline;
+}
+
+.button {
+    border-radius: 10%;
+    position: absolute;
+    right: 0%;
+    bottom: 15px;
+    right: 20px;
+    display: inline;
+
+}
+
+.but {
+    position: absolute;
+    right: 50px;
+    width: 225px;
+    height: 30px;
+    font-size: larger;
+    font-weight: 400;
+      background-color: rgb(217, 86, 11);
+    border-radius: 15px;
+      margin-bottom: 10px;
+      font-size: 20px;
+      height: 40px;
+      border: none;
+
+  
+
+}
+
+.rem {
+   
+   
+    color: #fff;
+}
